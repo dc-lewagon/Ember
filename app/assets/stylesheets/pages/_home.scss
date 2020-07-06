@@ -9,17 +9,21 @@
   background: url('homebackground.png');
   background-repeat: no-repeat;
   opacity: 0.8;
+
   h1 {
     color: white;
     font-weight: bold;
     font-size: 45px;
     top: 0px;
+    font-family: 'Ubuntu', sans-serif;
   }
+
   h3 {
     color: white;
     opacity: .8;
     font-weight: bold;
     font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
   }
   p {
     color: white;
@@ -27,6 +31,7 @@
     font-size: 25px;
     font-weight: lighter;
     margin-bottom: 20px;
+    font-family: 'Ubuntu', sans-serif;
   }
   .btn-home {
   background-color: #db1575e0;
